@@ -2,6 +2,9 @@
   "name": "creditcard",
   "version": "0.0.1",
   "private": true,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/mustafaonure"
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
