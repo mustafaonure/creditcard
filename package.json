@@ -17,6 +17,7 @@
     "react-native": "0.69.1",
     "react-native-gesture-handler": "^2.5.0"
   },
+  "author": "Mustafa Onur Ekinci",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
